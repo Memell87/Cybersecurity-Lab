@@ -1,4 +1,3 @@
-<img width="1830" height="1018" alt="Malware_Simulado py" src="https://github.com/user-attachments/assets/a2dacf59-5f08-4165-b86e-c521d96c690e" />
 🛡️ Cybersecurity Lab: Malware Simulator (Python)
 
 Este repositório contém o projeto desenvolvido para o desafio de Cibersegurança da DIO. O objetivo é demonstrar, de forma prática e em ambiente 100% controlado, o funcionamento de ameaças digitais comuns: Ransomware e Keylogger.
@@ -58,3 +57,5 @@ MFA (Autenticação Multifator): Previne que dados capturados por Keyloggers sej
 Daniel Gaio
 Estudante de Análise e Desenvolvimento de Sistemas.
 Focado em desenvolvimento Front-end e Cibersegurança.
+
+<img width="1830" height="1018" alt="Malware_Simulado py" src="https://github.com/user-attachments/assets/a2dacf59-5f08-4165-b86e-c521d96c690e" />
