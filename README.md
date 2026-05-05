@@ -1,4 +1,5 @@
 🛡️ Cybersecurity Lab: Malware Simulator (Python)
+
 Este repositório contém o projeto desenvolvido para o desafio de Cibersegurança da DIO. O objetivo é demonstrar, de forma prática e em ambiente 100% controlado, o funcionamento de ameaças digitais comuns: Ransomware e Keylogger.
 
 [!CAUTION]
